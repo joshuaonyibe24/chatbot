@@ -1,0 +1,5 @@
+chatbot is a tool used to communicate  with  a human
+
+Data Science is a field that combines AI, programming and domain.
+
+AI would not replace humans
